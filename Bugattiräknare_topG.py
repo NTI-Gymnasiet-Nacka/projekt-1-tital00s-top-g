@@ -11,7 +11,6 @@ def btn_click(item):
     input_text.set(expression)
     
     
-    
 def bt_Clear():
     global expression
     expression = ""
